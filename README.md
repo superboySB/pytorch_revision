@@ -1,2 +1,2 @@
 # pytorch_revision
-Revise my skills of pytorch and deep learning
+Revise my poor skills of pytorch and deep learning
